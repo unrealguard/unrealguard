@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Bill
+- 👀 I’m interested in learning about all things game development
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on interesting game or game related projects
+- 📫 You can find me at development conferences, discord communities, and meetups
